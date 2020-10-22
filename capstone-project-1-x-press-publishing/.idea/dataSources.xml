@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="database" uuid="f7a94939-f113-41ae-8f7e-f77282cc4956">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\CSY\OneDrive\Documents\Assignments\Graduate\Codecademy\capstone-project-1-x-press-publishing\database.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
